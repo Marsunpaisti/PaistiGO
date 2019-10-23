@@ -61,7 +61,6 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="BaseWeapon.cs" />
-    <Compile Include="Bitmap.cs" />
     <Compile Include="BspLoader.cs" />
     <Compile Include="BspParser\BSP.cs" />
     <Compile Include="BspParser\BSPFile.cs" />
