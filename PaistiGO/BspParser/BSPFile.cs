@@ -254,7 +254,7 @@ namespace PaistiGO.BspParser
         {
             var direction = end - start;
             var point = start;
-            int stepCount = (int)direction.Length*2;
+            int stepCount = (int)direction.Length;
 
             direction *= 1f / (float)stepCount;
 
